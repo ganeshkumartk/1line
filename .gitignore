@@ -4,3 +4,4 @@ stocks.csv
 build/
 dist/
 .ve
+.t

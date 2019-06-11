@@ -1,7 +1,14 @@
 Oruline !
 =========
 
-[![Build Status](https://travis-ci.org/csvoss/onelinerizer.svg?branch=master)](https://travis-ci.org/csvoss/onelinerizer)
+
+![PyPI](https://img.shields.io/pypi/v/oruline.svg)
+![GitHub](https://img.shields.io/github/license/coderganesh/1line.svg?style=plastic)
+![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](http://forthebadge.com)
+![PyPI - Implementation](https://img.shields.io/pypi/implementation/c.svg)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CoDeRgAnEsh)
+
 
 
 Convert any Python file into a single line of code which has the same functionality.

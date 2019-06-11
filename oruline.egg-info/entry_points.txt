@@ -1,0 +1,3 @@
+[console_scripts]
+oruliner = oruliner.__main__:main
+
